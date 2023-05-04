@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación de consola que simula el funcionamiento de una biblioteca. Está desarrollado en Java y utiliza una serie de clases para gestionar los socios, los libros y los préstamos.
 
+## UML
+![UML](https://github.com/JuaniPardo/Biblioteca/blob/main/Biblioteca.png)
 ## Funcionalidades
 
 La aplicación ofrece las siguientes funcionalidades:
